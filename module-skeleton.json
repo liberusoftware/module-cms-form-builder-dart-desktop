@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-form-builder-dart-desktop",
+  "capabilityKey": "planned:cms:form-builder",
+  "presentation": "dart-desktop",
+  "package": "module_cms_form_builder_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/form-builder.md",
+  "presentationPlan": "projects/cms/features/form-builder.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
